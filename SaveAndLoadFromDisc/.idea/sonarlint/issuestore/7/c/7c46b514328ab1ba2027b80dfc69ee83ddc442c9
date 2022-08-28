@@ -1,0 +1,9 @@
+
+v
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡Ææî8¹¢ÿ±®0
+J
+java:S16046"(Make this anonymous inner class a lambda(ÇËÚ½şÿÿÿÿ8¦¡€²®0
+z
+java:S1450"XRemove the "todoItems" field and declare it as a local variable in the relevant methods.(ËÅ¼ûÿÿÿÿ8Á¢ÿ±®0
+]	java:S125<"<This block of commented-out lines of code should be removed.(šéÇ³ûÿÿÿÿ8³Ùÿ±®0
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(˜©‘§ùÿÿÿÿ8ñ÷€²®0

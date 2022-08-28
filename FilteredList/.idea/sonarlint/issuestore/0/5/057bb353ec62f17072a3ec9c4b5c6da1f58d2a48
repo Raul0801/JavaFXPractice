@@ -1,0 +1,26 @@
+
+t
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀßÃÃşÿÿÿÿ
+t
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ÿÓ¿ÿÿÿÿÿ
+K
+java:S1066µ"/Merge this if statement with the enclosing one.(á†‹£ùÿÿÿÿ
+>
+java:S1604="(Make this anonymous inner class a lambda(•Ì×Ğ
+J
+java:S1604F"(Make this anonymous inner class a lambda(ÇËÚ½şÿÿÿÿ8È¶Æ±®0
+J
+java:S1604R"(Make this anonymous inner class a lambda(ñµ¬‘ùÿÿÿÿ8ÁìÅ±®0
+J
+java:S1604Y"(Make this anonymous inner class a lambda(Ş”¹áúÿÿÿÿ8ÁìÅ±®0
+J
+java:S1604c"(Make this anonymous inner class a lambda(ü°³éşÿÿÿÿ8ô÷Æ±®0
+J
+java:S1604o"(Make this anonymous inner class a lambda(ÌÚô˜øÿÿÿÿ8‚”Ç±®0
+V	java:S110r"<This class has 9 parents which is greater than 5 authorized.(È±„ñúÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(šéÇ³ûÿÿÿÿ
+Q	java:S125j"<This block of commented-out lines of code should be removed.(Ë…ó
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ò›µüÿÿÿÿ
+F	java:S108É")Either remove or fill this block of code.(Åï“8š»È±®0
+H
+java:S1068"-Remove this unused "todoItems" private field.(ËÅ¼ûÿÿÿÿ
